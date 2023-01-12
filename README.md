@@ -17,7 +17,7 @@ A high-school student as well as an IT technologies fan skilled in frontend deve
 - 🛒  eFrid
   - A concept of a software to support buyers - automatically generate shopping lists based on a frequency of purchasing particular products, then order at the cheapest store.
 - 🦠  Be.safe
-  - A website with advanced Covid-19 statistics required by travellers during the pandemic. Developed with technologies such as: JavaScript, Vue.js, HTML, SASS, and Go.
+  - A website with advanced Covid-19 statistics required by travellers during the pandemic.
 
 ### Skills
 
