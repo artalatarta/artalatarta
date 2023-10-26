@@ -1,6 +1,6 @@
 # Hi 👋 My name is Artur Mucowski
 
-## Frontend Developer | High School Student
+## Frontend Developer | Business Information Technology Student
 
 I'm a Business Information Technology student as well as an IT technologies fan skilled in frontend development. Especially interested in addressing social and business needs with IT and running start-ups. Member of winning teams in two nationwide competitions. Self-learned industry-leading frontend technologies, 
 3D printing and video editing.
