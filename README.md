@@ -2,11 +2,11 @@
 
 ## Frontend Developer | High School Student
 
-I'm a high-school student as well as an IT technologies fan skilled in frontend development. Especially interested in addressing social and business needs with IT and running start-ups. Member of winning teams in two nationwide competitions. Self-learned industry-leading frontend technologies, 
+I'm a Business Information Technology student as well as an IT technologies fan skilled in frontend development. Especially interested in addressing social and business needs with IT and running start-ups. Member of winning teams in two nationwide competitions. Self-learned industry-leading frontend technologies, 
 3D printing and video editing.
 
-- 🌍  I'm based in Katowice, Poland
-- 💻  I'm working on my study application
+- 🌍  I'm based in Enschede, The Netherlands & Katowice, Poland
+- 💻  I'm working on ???
 
 ### Projects
 
