@@ -6,7 +6,7 @@ I'm a Business Information Technology student as well as an IT technologies fan 
 3D printing and video editing.
 
 - 🌍  I'm based in Enschede, The Netherlands & Katowice, Poland
-- 💻  I'm currently working on exploding kittens java implemntation
+- 💻  I'm currently learning swift and working on the <a href="https://poland20.com/" target="_blank" rel="noreferrer">Poland 2.0</a> website
 
 ### Projects
 
