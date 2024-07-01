@@ -5,15 +5,7 @@
 I'm a Business Information Technology student as well as an IT technologies fan skilled in frontend development. Especially interested in addressing social and business needs with IT and running start-ups. Member of winning teams in two nationwide competitions. Self-learned industry-leading frontend technologies,
 3D printing and video editing.
 
-<a href="https://www.linkedin.com/in/artur-mucowski" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://x.com/artalatarta2" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-</a>
-<a href="https://www.instagram.com/artur.mucowski/" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
+<a href="https://www.linkedin.com/in/artur-mucowski" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a><a href="https://x.com/artalatarta2" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a><a href="https://www.instagram.com/artur.mucowski/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 
 ### Projects
 
